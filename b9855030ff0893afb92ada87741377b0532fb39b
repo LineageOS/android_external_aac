@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5b250531_91f18fa6",
+        "filename": "libAACdec/src/rvlcbit.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 17868
+      },
+      "writtenOn": "2018-11-18T19:21:34Z",
+      "side": 1,
+      "message": "double INT",
+      "range": {
+        "startLine": 112,
+        "startChar": 2,
+        "endLine": 112,
+        "endChar": 9
+      },
+      "revId": "b9855030ff0893afb92ada87741377b0532fb39b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
