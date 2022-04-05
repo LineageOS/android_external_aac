@@ -2,7 +2,7 @@
 /* -----------------------------------------------------------------------------------------------------------
 Software License for The Fraunhofer FDK AAC Codec Library for Android
 
-© Copyright  1995 - 2015 Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.
+© Copyright  1995 - 2022 Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.
   All rights reserved.
 
  1.    INTRODUCTION
@@ -256,6 +256,12 @@ TRANSPORTDEC_ERROR transportDec_OutOfBandConfig(HANDLE_TRANSPORTDEC hTp, UCHAR *
         if (errC != 0) {
           err = TRANSPORTDEC_PARSE_ERROR;
         }
+
+    /* if an error is detected terminate config parsing to avoid that an invalid
+     * config is accepted in the second pass */
+    if (err != TRANSPORTDEC_OK) {
+      break;
+    }
       }
       break;
     case TT_DRM:
