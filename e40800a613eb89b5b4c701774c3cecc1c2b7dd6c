@@ -51,6 +51,24 @@
       "parentUuid": "dc7982b1_2d9a7cd4",
       "revId": "e40800a613eb89b5b4c701774c3cecc1c2b7dd6c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6bfdb3a3_55b4b681",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26658
+      },
+      "writtenOn": "2022-06-19T19:27:08Z",
+      "side": 1,
+      "message": "Thanks for the reply.\nHere\u0027s the manifests:\n\n  \u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\"?\u003e\n  \u003cmanifest\u003e\n    \u003cproject name\u003d\"boulzordev/android_device_motorola_potter\" path\u003d\"device/motorola/potter\" remote\u003d\"github\" revision\u003d\"lineage-16.0\"/\u003e\n    \u003cproject name\u003d\"gothicVI/android_kernel_motorola_msm8953\" path\u003d\"kernel/motorola/msm8953\" remote\u003d\"github\" revision\u003d\"lineage-16.0\"/\u003e\n    \u003cproject name\u003d\"boulzordev/android_vendor_motorola_potter\" path\u003d\"vendor/motorola/potter\" remote\u003d\"github\" revision\u003d\"lineage-16.0\"/\u003e\n    \u003cproject name\u003d\"LineageOS/android_device_qcom_common\" path\u003d\"device/qcom/common\" remote\u003d\"github\" revision\u003d\"lineage-15.1\"/\u003e\n    \u003cproject name\u003d\"LineageOS/android_external_bson\" path\u003d\"external/bson\" remote\u003d\"github\" revision\u003d\"lineage-16.0\"/\u003e\n    \u003cproject name\u003d\"LineageOS/android_packages_resources_devicesettings\" path\u003d\"packages/resources/devicesettings\" remote\u003d\"github\" revision\u003d\"lineage-16.0\"/\u003e\n    \u003cproject name\u003d\"LineageOS/android_system_qcom\" path\u003d\"system/qcom\" remote\u003d\"github\" revision\u003d\"lineage-16.0\"/\u003e\n  \u003c/manifest\u003e",
+      "parentUuid": "d6a4ddaa_4577dcce",
+      "revId": "e40800a613eb89b5b4c701774c3cecc1c2b7dd6c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
