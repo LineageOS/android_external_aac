@@ -69,6 +69,24 @@
       "parentUuid": "d6a4ddaa_4577dcce",
       "revId": "e40800a613eb89b5b4c701774c3cecc1c2b7dd6c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "168fb41c_ef9cbe7d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17656
+      },
+      "writtenOn": "2022-06-20T15:06:29Z",
+      "side": 1,
+      "message": "I simply took your local manifest, eliminated the entries already existing for my devices, and simply did a build in my build environment - all went fine:\n\n...\ndone.\n[100% 97310/97310] build bacon\nPackage Complete: /home/mse1969/out-android/lin-16.0/target/product/potter/lineage-16.0-20220620-UNOFFICIAL-potter.zip\n\n#### build completed successfully (01:06:39 (hh:mm:ss)) ####\n...\n\nSo from my point of view, all is fine, and the issue you brought up is specific to your build environment. (I don\u0027t own a potter device, so I can\u0027t see, whether the build really works; but your issue was to show, that the build process aborts)",
+      "parentUuid": "6bfdb3a3_55b4b681",
+      "revId": "e40800a613eb89b5b4c701774c3cecc1c2b7dd6c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
