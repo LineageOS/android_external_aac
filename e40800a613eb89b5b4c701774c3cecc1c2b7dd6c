@@ -105,6 +105,24 @@
       "parentUuid": "168fb41c_ef9cbe7d",
       "revId": "e40800a613eb89b5b4c701774c3cecc1c2b7dd6c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a5084a99_725c6138",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17656
+      },
+      "writtenOn": "2022-06-21T10:19:52Z",
+      "side": 1,
+      "message": "I think this is getting \"out of scope\" in regards to the LineageOS gerrit, but you may find below links helpful:\nhttps://stackoverflow.com/questions/60275623/android-dex2oat-builderror-dex2oat-failed-to-compile-a-boot-image\nhttps://review.lineageos.org/c/LineageOS/android_art/+/233821\nhttps://www.reddit.com/r/LineageOS/comments/geh78r/building_lineageos_160_for_an_unsupported_device/",
+      "parentUuid": "9c1528ba_dc619ea4",
+      "revId": "e40800a613eb89b5b4c701774c3cecc1c2b7dd6c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
