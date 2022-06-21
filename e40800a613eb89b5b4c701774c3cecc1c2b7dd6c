@@ -87,6 +87,24 @@
       "parentUuid": "6bfdb3a3_55b4b681",
       "revId": "e40800a613eb89b5b4c701774c3cecc1c2b7dd6c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9c1528ba_dc619ea4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26658
+      },
+      "writtenOn": "2022-06-21T05:36:48Z",
+      "side": 1,
+      "message": "Thanks a lot for looking into this.\nI\u0027ve now tried it on more than one system and I\u0027m getting the same error.\nAll of them are Manjaro systems. Do you have an idea how to narrow down what\u0027s happening? Compiling los 14.1, 17.1, 18.1, and 19.1 for a couple of devices works fine.",
+      "parentUuid": "168fb41c_ef9cbe7d",
+      "revId": "e40800a613eb89b5b4c701774c3cecc1c2b7dd6c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
